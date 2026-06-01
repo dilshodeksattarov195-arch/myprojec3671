@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachepave",
+        "uuid": 26934127,
+        "checksum": "it2pvs"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
